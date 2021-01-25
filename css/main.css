@@ -47,16 +47,13 @@ p {
 .footer-div2 {
   font-size: 18px;
 }
-
 .container-fluid {
   padding-top: 35px;
   padding-bottom: 15px;
 }
-
 .navbar-brand {
   font-size: 24px;
 }
-
 .navbar {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -74,39 +71,38 @@ p {
 .navbar-nav  li a:hover {
   color: #797665 !important;
 }
-
 .navbar-brand  {
   color: #ffffff !important;
   font-weight: bold;
 }
-
 .navbar-center {
   display: inline-block;
     list-style-type: none;
 }
-
 .navbar-box {
   outline: 2px solid #fff;
   margin-left: 10px;
 }
-
 .navbar-box:hover {
   outline: 2px solid #fff;
   margin-left: 10px;
   background-color: #fff !important;
 }
-
 .logo {
   height: 250px;
   margin-left: auto;
   margin-right: auto;
 }
-
 .footer-logo {
   height: 200px;
   margin-left: 50px;
   margin-right: 50px;
-  left: calc(50% 100px);
+
+}
+.container-footer {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Custom navbar for width
