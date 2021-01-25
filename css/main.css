@@ -1,0 +1,54 @@
+body {
+  font: 20px Century Gothic, Montserrat, sans-serif, futura-pt;
+  line-height: 1.8;
+  color: #f5f6f7;
+}
+p {font-size: 16px;}
+.margin {margin-bottom: 45px;}
+.bg-1 {
+  background-color: #474e5d; /* Dark Blue */
+  color: #ffffff;
+  letter-spacing: 5px;
+}
+.bg-3 {
+  background-color: #ffffff; /* White */
+  color: #555555;
+}
+.bg-4 {
+  background-color: #ECECEC; /* Light Gray */
+}
+.bg-5 {
+  background-color: #191006; /* Brown */
+  color: #fff;
+}
+.container-fluid {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 2px;
+  background-color: #191006; /* Dark Brown */
+}
+.navbar-nav  li {
+  color: #ffffff;
+}
+.navbar-nav  li a:hover {
+  color: #1abc9c !important;
+}
+
+.navbar-center {
+  float: none !important;
+  text-align: center !important;
+}
+
+.logo {
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
